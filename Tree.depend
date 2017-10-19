@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508328593 source:d:\practice\tree\main.cpp
+	<iostream>
+	<stack>
+	<deque>
+	<string>
+	<array>
+	<vector>
+	<map>
+
